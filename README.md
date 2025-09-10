@@ -21,8 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-![Sakshyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshyamdhakal&show_icons=true&theme=tokyonight)  
 
 ### 📊 Top Languages  
 - Laravel
