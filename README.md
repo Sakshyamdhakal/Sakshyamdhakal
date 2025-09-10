@@ -1,34 +1,33 @@
-# 👋 Hi, I'm Sakshyam Dhakal  
+# 👋 Hello, I'm Sakshyam Dhakal  
 
-💻 Aspiring Software Developer | 🚀 Exploring Laravel & React.js | 📊 CSIT Student  
+💻 Aspiring Software Developer | 🚀 Specializing in Laravel & React.js | 📊 BSc. CSIT Student  
 
 ---
 
 ### 🔥 About Me  
-- 🎓 Pursuing **BSc. CSIT**  
-- 🌱 Currently learning **React.js** and **Laravel** 
-- 🛠️ Passionate about full-stack web development and database systems  
-- 📖 Always curious to grow, build, and share knowledge  
+I am a dedicated and ambitious software developer with a passion for building robust and scalable web applications.  
+- 🎓 Currently pursuing **BSc. CSIT**  
+- 🌱 Actively learning and working with **React.js** and **Laravel**  
+- 🛠️ Skilled in full-stack web development and proficient in managing relational databases  
+- 📖 Committed to continuous learning, exploring new technologies, and sharing knowledge with the community  
 
 ---
 
-### ⚡ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript (Core), React.js  
-- **Backend:** PHP (Laravel), Inertia.js  
-- **Databases:** MySQL, PostgreSQL  
-- **Other Languages:** C, C++  
-- **Tools:** Git, GitHub, VS Code  
+### ⚡ Technical Skills  
+
+**Frontend:** HTML, CSS, Core JavaScript, React.js  
+**Backend:** PHP (Laravel), Inertia.js  
+**Databases:** MySQL, PostgreSQL  
+**Other Languages:** C, C++  
+**Tools & Platforms:** Git, GitHub, VS Code  
 
 ---
 
-
-### 📊 Top Languages  
-- Laravel
-- React
-- JavaScript basics  
-- PHP basics
-- Html , Css 
-
+### 📊 Top Languages / Technologies  
+- Laravel  
+- React.js  
+- JavaScript (Core)  
+- PHP (Core)  
 
 ---
 
@@ -38,4 +37,4 @@
 
 ---
 
-⭐️ From [Sakshyam Dhakal](https://github.com/Sakshyamdhakal)  
+⭐️ Made with 💻 by [Sakshyam Dhakal](https://github.com/Sakshyamdhakal)  
