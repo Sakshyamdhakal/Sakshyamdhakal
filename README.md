@@ -26,8 +26,8 @@ I am a dedicated and ambitious software developer with a passion for building ro
 ### 📊 Top Languages / Technologies  
 - Laravel  
 - React.js  
-- JavaScript (Core)  
-- PHP (Core)  
+- JavaScript basics (Core)  
+- PHP basics (Core)  
 
 ---
 
