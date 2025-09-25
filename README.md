@@ -37,4 +37,4 @@ I am a dedicated and ambitious software developer with a passion for building ro
 
 ---
 
-⭐️ Made with 💻 by [Sakshyam Dhakal](https://github.com/Sakshyamdhakal)  
+Made with 💻 by [Sakshyam Dhakal](https://github.com/Sakshyamdhakal)  
